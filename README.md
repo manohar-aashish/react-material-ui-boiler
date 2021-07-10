@@ -1,1 +1,1 @@
-# React-Boiler
+# React-Material-UI-Boiler
