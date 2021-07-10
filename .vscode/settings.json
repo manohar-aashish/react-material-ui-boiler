@@ -1,0 +1,10 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true
+  },
+  "emmet.includeLanguages": {
+    "ejs": "html",
+    "javascript": "javascriptreact"
+  }
+}
